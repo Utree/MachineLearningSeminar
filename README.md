@@ -1,7 +1,7 @@
 # MachineLearningSeminar
 機械学習の勉強会用リポジトリ
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Utree/MachineLearningSeminar/blob/master/README.md/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Utree/MachineLearningSeminar/master)
 
 ## 資料一覧
 | No. | テーマ | プレゼン資料 | ソースコード |
