@@ -7,7 +7,7 @@
 | No. | テーマ | プレゼン資料 | ソースコード |
 |:---:|:-------:|:----------:|:----------:|
 | 01  | プログラミングの基礎知識 | [Speakerdeck](https://speakerdeck.com/utree/ml-1) | なし |
-| 02  | Python入門 | Comming Soon | [JupyterNotebook](https://github.com/Utree/MachineLearningSeminar/blob/master/02_Python%E5%85%A5%E9%96%80.ipynb) |
+| 02  | Python入門 | [Speakerdeck](https://speakerdeck.com/utree/ml-2) | [JupyterNotebook](https://github.com/Utree/MachineLearningSeminar/blob/master/02_Python%E5%85%A5%E9%96%80.ipynb) |
 | 03  | Pythonライブラリ | Comming Soon | Comming Soon |
 | 04  | 機械学習　　     | Comming Soon | Comming Soon |
 | 05  | 教師あり学習　　  | Comming Soon | Comming Soon |
