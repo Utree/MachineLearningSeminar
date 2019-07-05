@@ -24,3 +24,4 @@
 | 16  | k-means法　     | Comming Soon | Comming Soon |
 | 17  | 凝集型クラスタリング| Comming Soon | Comming Soon |
 | 18  | DBSCAN         | Comming Soon | Comming Soon |
+| 19  | 前処理          | Comming Soon | Comming Soon |
