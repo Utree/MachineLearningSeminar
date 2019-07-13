@@ -9,7 +9,7 @@
 | 01  | プログラミングの基礎知識 | [Speakerdeck](https://speakerdeck.com/utree/ml-1) | なし |
 | 02  | Python入門 | [Speakerdeck](https://speakerdeck.com/utree/ml-2) | [JupyterNotebook](https://github.com/Utree/MachineLearningSeminar/blob/master/02_Python%E5%85%A5%E9%96%80.ipynb) |
 | 03  | Pythonライブラリ | なし | [JupyterNotebook](https://github.com/Utree/MachineLearningSeminar/blob/master/03_Python%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA.ipynb) |
-| 04  | 機械学習　　     | Comming Soon | Comming Soon |
+| 04  | 機械学習　　     | Comming Soon | [JupyterNotebook](https://github.com/Utree/MachineLearningSeminar/blob/master/04_%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92.ipynb) |
 | 05  | 教師あり学習　　  | Comming Soon | Comming Soon |
 | 06  | k-最近傍法  　   | Comming Soon | Comming Soon |
 | 07  | 線形分類　　     | Comming Soon | Comming Soon |
